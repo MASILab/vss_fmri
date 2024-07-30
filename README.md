@@ -40,7 +40,7 @@ python apply_vss_filter.py \
     --n_jobs 15
 ```
 
-We also provide code for diffusion-informed spatial smoothing (DSS), originally introduced by [Abramian et al.](https://doi.org/10.1016/j.neuroimage.2021.118095). To use the diffusion-informed spatial smoothing filter, see ```apply_dss_filter.py```.
+We also provide code for diffusion-informed spatial smoothing (DSS), originally introduced by [Abramian et al](https://doi.org/10.1016/j.neuroimage.2021.118095). To use the diffusion-informed spatial smoothing filter, see ```apply_dss_filter.py```.
 
 ```bash
 data_dir="/path/to/data/dir"
