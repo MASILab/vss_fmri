@@ -1,6 +1,8 @@
 # Vasculature-informed spatial smoothing for fMRI
 Vasculature-informed spatial smoothing (VSS) filter for functional magnetic resonance imaging (fMRI) based on susceptibility-weighted imaging (SWI).
 
+![vss_graphical_abstract](https://github.com/user-attachments/assets/e1ff8c87-1000-45c6-9863-4b31578a5cc1)
+
 ## Installation
 Clone this repo and navigate to the downloaded directory. Use [conda](https://docs.conda.io/en/latest/) to create a Python environment with the specified requirements:
 
@@ -70,7 +72,7 @@ The code is released under the MIT License.
 If you use the filters in your research, please cite the following:
 
 Vasculature-informed spatial smoothing filter:
-> Adam M. Saunders, Michael E. Kim, Kurt G. Schilling, Bennett A. Landman, Yurui Gao. Vasculature-informed spatial smoothing of white matter functional magnetic resonance imaging. SPIE Medical Imaging 2024 [in preparation]. 
+> Adam M. Saunders, Michael E. Kim, Kurt G. Schilling, John C. Gore, Bennett A. Landman, and Yurui Gao. Vasculature-informed spatial smoothing of white matter functional magnetic resonance imaging. SPIE Medical Imaging: Image Processing, 2025, February, San Diego, California. [https://doi.org/10.1117/12.3047240](https://doi.org/10.1117/12.3047140).
 
 Diffusion-informed spatial smoothing filter:
 > David Abramian, Martin Larsson, Anders Eklund, Iman Aganj, Carl-Fredrik Westin, Hamid Behjat. Diffusion-informed spatial smoothing of fMRI data in white matter using spectral graph filters. NeuroImage, 2021. https://doi.org/10.1016/j.neuroimage.2021.118095.
